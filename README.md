@@ -4,3 +4,4 @@
     so that it could search groups for sentences in parallel and would be able to scale horizontally in
     multiprocessor/multicore environment.
 3. The current implementation rely on correct input and does not do any validation for development time-saving reasons.
+   I did not create package structure to keep it simple there are only 5 source files.
